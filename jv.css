@@ -1,0 +1,23 @@
+body {
+	background-color: #7DA3A1;
+	display: flex;
+	justify-content: center; 	
+
+}
+.knopje{
+	height: 80px;
+	width: 80px;
+	font-size: 30px;
+
+}
+.display {
+	height: 50px;
+	width: 400px;
+	font-size: 30px;
+}
+input {
+padding: 6, 3, 6, 3px;	
+color: white;
+background-color: #34675C;
+margin: 10px auto;
+}
